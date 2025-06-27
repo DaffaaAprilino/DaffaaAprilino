@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaffaaAprilino&show_icons=true&theme=tokyonight" alt="Daffaa's GitHub Stats" />
-</p>
-
----
-
 ### 🔥 Most Used Languages
 
 <p align="center">
