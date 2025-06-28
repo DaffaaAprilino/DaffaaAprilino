@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daffaa Aprilino</h1>
 
 # 💫 About Me:
-🎓 Currently studying Informatics Engineering at Universitas Pasundan  <br>💻 Enthusiastic about web development and passionate about building creative digital solutions  <br>🎥 Part-time content creator focused on designing, creating, and editing videos  <br><br>🔭 Currently working on building my personal portfolio website and creating content for an IT consulting company  <br>👯 Looking to collaborate on open-source projects related to web development
+🎓 Currently studying Informatics Engineering at Universitas Pasundan  <br>💻 Enthusiastic about web development and passionate about building creative digital solutions  <br>🎥 Part-time content creator focused on designing, creating, and editing videos <br>🔭 Currently working on building my personal portfolio website and creating content for an IT consulting company  <br>👯 Looking to collaborate on open-source projects related to web development
 
 
 ## 🌐 Socials:
