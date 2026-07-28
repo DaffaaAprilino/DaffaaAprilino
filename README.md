@@ -1,13 +1,12 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>👋 Hi, I'm Daffaa Aprilino</h2>
+      <h2>👋 Hi, I'm Daffaa Aprilino <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" align="center" /></h2>
       <p>An <b>Informatics Engineering Graduate</b> (Thesis Defended, Awaiting Graduation) at Universitas Pasundan, Bandung.</p>
       <p>Focused on building modern, high-performance web applications with clean code architecture and intuitive user experiences.</p>
       <ul>
         <li>🎓 <b>Education:</b> B.S. Informatics Engineering (Thesis Passed) @ Universitas Pasundan</li>
         <li>💻 <b>Focus:</b> Fullstack & Frontend Engineering</li>
-        <li>💼 <b>Status:</b> Open for Freelance & Projects</li>
         <li>🎯 <b>Tech:</b> React · Next.js · TypeScript · Laravel</li>
         <li>📍 <b>Location:</b> Bandung, West Java, Indonesia</li>
       </ul>
@@ -82,8 +81,6 @@
 
 ## Connect With Me
 
-![Open For Freelance](https://img.shields.io/badge/Status-Open%20for%20Freelance%20%26%20Projects-6C63FF?style=for-the-badge)
-
 <br/>
 
 *Currently open for freelance web development, fullstack engineering roles, and technical collaborations.*  
@@ -92,19 +89,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/daffaa-aprilino" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/linkedin.svg" width="38" height="38" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/daffaaprilino_" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/instagram.svg" width="38" height="38" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:daffaaprilino7@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/email.svg" width="38" height="38" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/DaffaaAprilino" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/github.svg" width="38" height="38" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
