@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## ⚡ Technologies & Ecosystem
+## Stack & Technical Capabilities
 
 **✦ Primary Ecosystem ✦**
 
@@ -80,22 +80,31 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 ![Open For Freelance](https://img.shields.io/badge/Status-Open%20for%20Freelance%20%26%20Projects-6C63FF?style=for-the-badge)
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffaa-aprilino)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffaaprilino_)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaffaaAprilino)
+*Currently open for freelance web development, fullstack engineering roles, and technical collaborations.*  
+*Got an exciting project, product idea, or job offer? Let's connect and build something extraordinary together.*
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=90&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
+<a href="https://www.linkedin.com/in/daffaa-aprilino" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/linkedin.svg" width="38" height="38" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/daffaaprilino_" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/instagram.svg" width="38" height="38" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:daffaaprilino7@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/email.svg" width="38" height="38" alt="Gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DaffaaAprilino" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/social-icons/github.svg" width="38" height="38" alt="GitHub" />
+</a>
 
 </div>
