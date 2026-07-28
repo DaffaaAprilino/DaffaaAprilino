@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=180&section=header&text=Daffaa%20Aprilino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Frontend%20Developer%20%7C%20Informatics%20Student&descSize=14&descAlignY=62&descColor=e0e6ed" width="100%" alt="Header" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 <br/>
 
