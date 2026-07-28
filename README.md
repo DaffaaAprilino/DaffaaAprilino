@@ -1,50 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1e1e2e&height=180&section=header&text=Daffaa%20Aprilino&fontSize=48&fontColor=89b4fa&animation=twinkle&fontAlignY=42&desc=Fullstack%20%26%20Frontend%20Engineer%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=15&descAlignY=68&descColor=a6adc8" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=180&section=header&text=Daffaa%20Aprilino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Frontend%20Developer%20%7C%20Informatics%20Student&descSize=14&descAlignY=62&descColor=e0e6ed" width="100%" alt="Header" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daffaa%20Aprilino-1e1e2e?style=flat-square&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/daffaa-aprilino)
+[![Profile Views](https://komarev.com/ghpvc/?username=DaffaaAprilino&label=Profile+Views&color=6C63FF&style=flat-square)](https://github.com/DaffaaAprilino)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-daffaaprilino7%40gmail.com-1e1e2e?style=flat-square&logo=gmail&logoColor=f38ba8)](mailto:daffaaprilino7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daffaa%20Aprilino-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daffaa-aprilino)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=DaffaaAprilino&label=Profile+Views&color=89b4fa&style=flat-square)](https://github.com/DaffaaAprilino)
+[![Email](https://img.shields.io/badge/Email-daffaaprilino7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
 
 </div>
 
----
-
-## 👨‍💻 Developer Spec
-
-```yaml
-# developer_profile.yml
-developer:
-  name: Daffaa Aprilino
-  degree: B.S. Informatics Engineering (Expected Jul 2026)
-  institution: Universitas Pasundan, Bandung
-  specialization: Fullstack Web & Frontend Architecture
-
-core_philosophy:
-  - "Build solutions rooted in real user research, not assumptions."
-  - "Bridge high-performance backend systems with pixel-perfect UIs."
-
-current_focus:
-  - Next.js 15 App Router & React Ecosystem
-  - Scalable Web Systems with Laravel & TypeScript
-```
+<br/>
 
 ---
 
-## ⚡ Roles & Impact
+## 🧑‍💻 About Me
 
-> **Web Programming Teaching Assistant** — *Universitas Pasundan*  
-> Mentoring Informatics students in modern web technologies, code structure, and software design principles.
+Hi! I'm **Daffaa Aprilino**, an Informatics Engineering student at **Universitas Pasundan, Bandung** (expected graduation July 2026). I focus on building modern, high-performance web applications with clean code architecture and intuitive user experiences.
 
-> **Software Engineering Intern** — *PT Kereta Api Indonesia (Persero) DAOP 2*  
-> Conducted field user research at Bandung & Kiaracondong stations to design and build **KAI Travel Assist**, improving passenger onboarding workflow efficiency.
+- 🎓 **Education:** Informatics Engineering @ Universitas Pasundan
+- 💼 **Roles:** Web Programming Teaching Assistant & Software Engineering Intern at PT KAI DAOP 2
+- 🎯 **Focus:** Fullstack & Frontend Engineering (React, Next.js, TypeScript, Laravel)
+- 📍 **Location:** Bandung, West Java, Indonesia
 
-> **Fullstack Web Developer** — *Freelance & Independent Projects*  
-> Building end-to-end production web applications for sports management, digital receipt generation, and custom web tools.
+---
+
+## ⚡ Experience & Roles
+
+| Role | Organization / Company | Details |
+|:---|:---|:---|
+| 🎓 **Teaching Assistant** | Universitas Pasundan | Mentoring students in Web Programming practicum & clean code practices |
+| 🚂 **Software Engineering Intern** | PT Kereta Api Indonesia (Persero) DAOP 2 | Built *KAI Travel Assist* based on field user research to streamline boarding |
+| 💻 **Fullstack Developer** | Freelance & Independent | Developing production web systems (Sports management, photobooth apps) |
 
 ---
 
@@ -52,13 +41,13 @@ current_focus:
 
 <div align="center">
 
-**— Icon Matrix —**
+**— Core Icons —**
 
 [![Skill Icons](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,laravel,php,mysql,html,css,git,github,figma,unity&perline=7)](https://skillicons.dev)
 
 <br/>
 
-**— Core Languages —**
+**— Programming Languages —**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -68,7 +57,7 @@ current_focus:
 
 <br/>
 
-**— Frameworks & Tools —**
+**— Frameworks & Ecosystem —**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -82,25 +71,12 @@ current_focus:
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-```
-📦 KAI Travel Assist
-├── Description : Web platform for passenger boarding assistance built from field research
-└── Stack       : React · TypeScript · Tailwind CSS
-
-📦 Fins Swimming Club Management
-├── Description : End-to-end club management platform (member tracking, billing, attendance)
-└── Stack       : Next.js · Laravel · MySQL
-
-📦 Receipt Photobooth
-├── Description : Digital receipt generator web application for modern photobooth operations
-└── Stack       : React · Node.js
-
-📦 Personal Interactive Portfolio
-├── Description : Modern portfolio featuring cursor spotlight UI and performance optimization
-└── Stack       : Next.js · TypeScript · Tailwind CSS
-```
+- 🚂 **KAI Travel Assist** — Web platform for passenger boarding assistance created from direct user research at Bandung stations *(React, TypeScript, Tailwind)*.
+- 🏊 **Fins Swimming Club Management** — Full-stack management system handling member tracking, attendance, and billing *(Next.js, Laravel, MySQL)*.
+- 📸 **Receipt Photobooth** — Web application generating digital receipts for modern photobooths *(React, Node.js)*.
+- 🎨 **Personal Interactive Portfolio** — Portfolio website featuring a custom cursor spotlight and optimized performance *(Next.js, TypeScript, Tailwind)*.
 
 ---
 
@@ -108,35 +84,28 @@ current_focus:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DaffaaAprilino&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DaffaaAprilino&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaaAprilino&layout=compact&langs_count=7&theme=catppuccin&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaaAprilino&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaffaaAprilino&theme=catppuccin&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaffaaAprilino&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
 ---
 
-## 📬 Connect & Collaborate
+## 📬 Connect With Me
 
 <div align="center">
-
-Interested in collaborating or discussing web development projects?
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffaa-aprilino)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffaaprilino_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=40&section=footer&text=Daffaa%20Aprilino%20%E2%80%A2%20Engineering%20with%20Purpose&fontSize=13&fontColor=a6adc8&fontAlignY=50" width="100%" />
-</div>s://github.com/DaffaaAprilino">Daffaa Aprilino</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
+
 </div>
