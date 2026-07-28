@@ -1,43 +1,27 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DaffaaAprilino&label=Profile+Views&color=6C63FF&style=flat-square)](https://github.com/DaffaaAprilino)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daffaa%20Aprilino-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daffaa-aprilino)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-daffaaprilino7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-Hi! I'm **Daffaa Aprilino**, an Informatics Engineering student at **Universitas Pasundan, Bandung** (expected graduation July 2026). I focus on building modern, high-performance web applications with clean code architecture and intuitive user experiences.
-
-- 🎓 **Education:** Informatics Engineering @ Universitas Pasundan
-- 💼 **Roles:** Web Programming Teaching Assistant & Software Engineering Intern at PT KAI DAOP 2
-- 🎯 **Focus:** Fullstack & Frontend Engineering (React, Next.js, TypeScript, Laravel)
-- 📍 **Location:** Bandung, West Java, Indonesia
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>👋 Hi, I'm Daffaa Aprilino</h2>
+      <p>An <b>Informatics Engineering student</b> at Universitas Pasundan, Bandung (Expected Graduation 2026).</p>
+      <p>Focused on building modern, high-performance web applications with clean code architecture and intuitive user experiences.</p>
+      <ul>
+        <li>🎓 <b>Education:</b> Universitas Pasundan, Bandung</li>
+        <li>💻 <b>Focus:</b> Fullstack & Frontend Engineering</li>
+        <li>🎯 <b>Tech:</b> React · Next.js · TypeScript · Laravel</li>
+        <li>📍 <b>Location:</b> Bandung, West Java, Indonesia</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-## ⚡ Experience & Roles
-
-| Role | Organization / Company | Details |
-|:---|:---|:---|
-| 🎓 **Teaching Assistant** | Universitas Pasundan | Mentoring students in Web Programming practicum & clean code practices |
-| 🚂 **Software Engineering Intern** | PT Kereta Api Indonesia (Persero) DAOP 2 | Built *KAI Travel Assist* based on field user research to streamline boarding |
-| 💻 **Fullstack Developer** | Freelance & Independent | Developing production web systems (Sports management, photobooth apps) |
-
----
-
-## 🛠️ Tech Stack & Tooling
 
 <div align="center">
+
+## 🛠️ Tech Stack & Tooling
 
 **— Core Icons —**
 
@@ -55,7 +39,7 @@ Hi! I'm **Daffaa Aprilino**, an Informatics Engineering student at **Universitas
 
 <br/>
 
-**— Frameworks & Ecosystem —**
+**— Frameworks & Tools —**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -69,18 +53,9 @@ Hi! I'm **Daffaa Aprilino**, an Informatics Engineering student at **Universitas
 
 ---
 
-## 🚀 Featured Projects
-
-- 🚂 **KAI Travel Assist** — Web platform for passenger boarding assistance created from direct user research at Bandung stations *(React, TypeScript, Tailwind)*.
-- 🏊 **Fins Swimming Club Management** — Full-stack management system handling member tracking, attendance, and billing *(Next.js, Laravel, MySQL)*.
-- 📸 **Receipt Photobooth** — Web application generating digital receipts for modern photobooths *(React, Node.js)*.
-- 🎨 **Personal Interactive Portfolio** — Portfolio website featuring a custom cursor spotlight and optimized performance *(Next.js, TypeScript, Tailwind)*.
-
----
+<div align="center">
 
 ## 📊 GitHub Analytics
-
-<div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=DaffaaAprilino&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 &nbsp;
@@ -94,16 +69,24 @@ Hi! I'm **Daffaa Aprilino**, an Informatics Engineering student at **Universitas
 
 ---
 
-## 📬 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffaa-aprilino)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffaaprilino_)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
+## 🌐 Connect With Me
+
+*Open for fullstack development roles, web application projects, and tech discussions.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffaa-aprilino)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffaaprilino_)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaaprilino7@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaffaaAprilino)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=90&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer" />
 
 </div>
